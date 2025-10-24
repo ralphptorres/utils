@@ -11,3 +11,5 @@ Here's a quick rundown of each util and its purpose.
   them as json
 - screenshotter: takes full/partial screenshot, then copies/saves and displays
   it thru notification
+- yquery: queries various info eg. music lyrics and metadata, outdated packages,
+  weather, etc., and outputs them in a format suitable for yambar
