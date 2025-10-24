@@ -5,5 +5,7 @@ binaries for my unix systems (darwin, linux).
 
 Here's a quick rundown of each util and its purpose. 
 
+- adjuster: allows adjustment of backlight, keyboard bkl, volume in/out via cli,
+  and reports changes via notification. latter includes battery level
 - screenshotter: takes full/partial screenshot, then copies/saves and displays
   it thru notification
