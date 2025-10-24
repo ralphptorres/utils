@@ -7,5 +7,7 @@ Here's a quick rundown of each util and its purpose.
 
 - adjuster: allows adjustment of backlight, keyboard bkl, volume in/out via cli,
   and reports changes via notification. latter includes battery level
+- jquery: queries various info eg. currently playing music, etc., and outputs
+  them as json
 - screenshotter: takes full/partial screenshot, then copies/saves and displays
   it thru notification
